@@ -39,7 +39,7 @@ setup(
     package_dir={"": "src"},
     python_requires=">=3.8",
     install_requires=[
-        "cirq",
+        "cirq-core",
         "numpy",
         "pandas",
         "scipy",
